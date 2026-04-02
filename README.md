@@ -24,7 +24,7 @@ unzip test_dir.zip -d unzipped_dir
 
 5. Downloading Files
 Command:
-wget https://www.w3.org/TR/PNG/iso_8859-1.txt
+wget https://github.com/RushiD369/Linux-Basics-assignment/blob/main/README.md
 
 6. Changing Permissions
 Commands:
